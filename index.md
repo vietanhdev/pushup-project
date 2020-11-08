@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Dự án Push Up
 
-You can use the [editor on GitHub](https://github.com/vietanhdev/pushup-project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Nhằm thức đẩy việc luyện tập sức khoẻ ở anh em IT và tạo một bộ dữ liệu để mọi người có thể sử dụng trong project và thử nghiệm các thuật toán mới, nhóm mình muốn xây dựng một bộ dữ liệu có về hít đất / chống đẩy. Nhóm mình rất cần anh em giúp đỡ về vụ gán nhãn data vì nhóm mình có quá ít người để hoàn thành bộ dữ liệu này. Công việc rất đơn giản và chỉ mất tầm nửa phút cho mỗi video. Anh em gán nhãn giúp mình chúng mình rất cảm ơn và sẽ chia sẻ **bộ dữ liệu khá lớn video chống đẩy**, source code cho **server gán nhãn**, source code cho **tool gán nhãn** mà bọn mình đã thực hiện.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Công việc gán nhãn có thể được thực hiện hết sức đơn giản như dưới. Nhóm mình cần mỗi anh em gán giúp khoảng 15 video, mỗi cái gán mất khoảng 30 giây, tổng cộng mất chưa đến 10 phút.
 
-### Markdown
+### Video hướng dẫn gán nhãn dữ liệu Pushup
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HUl3rLiH2Qw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-```markdown
-Syntax highlighted code block
+### Bước 1: Tải tool và setup
 
-# Header 1
-## Header 2
-### Header 3
+- Tải tool gán nhãn tại [đây](https://raw.githubusercontent.com/vietanhdev/pushup-project/gh-pages/label_tool.exe).
+- Mở lên và nhập vào email của bạn (để bọn mình có thể chia sẻ lại source code của tool và server).
 
-- Bulleted
-- List
+![Hình 1](1.png)
 
-1. Numbered
-2. List
+### Bước 2: Gán nhãn
 
-**Bold** and _Italic_ and `Code` text
+- Sử dụng phím Space để gán nhãn. Lưu ý ấn Space khi **TAY Ở VỊ TRÍ CAO NHẤT**, tức là kết thúc một lượt chống đẩy. Bạn sẽ thấy biến đếm tăng lên một đơn vị.
+- Ấn `r` để gán nhãn lại video nếu bạn thấy mình gán nhãn sai.
+- Ấn `q` để thoát chương trình.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vietanhdev/pushup-project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Cảm ơn anh em!
