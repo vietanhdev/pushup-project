@@ -13,7 +13,7 @@ Công việc gán nhãn có thể được thực hiện hết sức đơn giả
 - Tải tool gán nhãn tại [đây](https://raw.githubusercontent.com/vietanhdev/pushup-project/gh-pages/label_tool.exe).
 - Mở lên và nhập vào email của bạn (để bọn mình có thể chia sẻ lại source code của tool và server).
 
-![Hình 1](1.png)
+![Hình 1](ss1.png)
 
 ### Bước 2: Gán nhãn
 
@@ -21,7 +21,7 @@ Công việc gán nhãn có thể được thực hiện hết sức đơn giả
 - Ấn `r` để gán nhãn lại video nếu bạn thấy mình gán nhãn sai.
 - Ấn `q` để thoát chương trình.
 
-![Hình 2](2.png)
+![Hình 2](ss2.png)
 
 
 ### Cảm ơn anh em!
