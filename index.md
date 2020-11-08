@@ -21,4 +21,7 @@ Công việc gán nhãn có thể được thực hiện hết sức đơn giả
 - Ấn `r` để gán nhãn lại video nếu bạn thấy mình gán nhãn sai.
 - Ấn `q` để thoát chương trình.
 
+![Hình 2](2.png)
+
+
 ### Cảm ơn anh em!
