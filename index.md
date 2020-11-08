@@ -17,7 +17,7 @@ Công việc gán nhãn có thể được thực hiện hết sức đơn giả
 
 ### Bước 2: Gán nhãn
 
-- Sử dụng phím Space để gán nhãn. Lưu ý ấn Space khi **TAY Ở VỊ TRÍ CAO NHẤT**, tức là kết thúc một lượt chống đẩy. Bạn sẽ thấy biến đếm tăng lên một đơn vị.
+- Sử dụng phím Space để gán nhãn. Lưu ý ấn Space khi **TAY CỦA NGƯỜI TẬP Ở VỊ TRÍ CAO NHẤT**, tức là kết thúc một lượt chống đẩy. Bạn sẽ thấy biến đếm tăng lên một đơn vị.
 - Ấn `r` để gán nhãn lại video nếu bạn thấy mình gán nhãn sai.
 - Ấn `q` để thoát chương trình.
 
